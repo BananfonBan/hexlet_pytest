@@ -1,1 +1,1 @@
-![Github Actions](https://github.com/BananfonBan/hexlet_pytest/blob/main/.github/workflows/Hello%20World.yml)
+![Github Actions](https://github.com/BananfonBan/hexlet_pytest/actions/workflows/Hello%20World.yml/badge.svg)
